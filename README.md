@@ -1,11 +1,9 @@
-Crawler developed as a test for an Internship vacancy at Devnology
+Crawler developed as a test for a vacancy at Devnology
 ==================================================================
 
 ## Description
 
 This project, gets all lenovo laptops from the webscraper.io website, sort it by price (low priced to high priced), get all of its data and return as a json.
-
----
 
 ## Libraries
 
@@ -17,8 +15,6 @@ Currently, we are using three Libraries, are they:
 	Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
 * Fs:  
     The fs module is used to save the data that comes from the browser in a json file
-
----
 
 ## How to use
 
