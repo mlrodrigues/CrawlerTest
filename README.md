@@ -20,8 +20,8 @@ Currently, we are using three Libraries, are they:
 
 It is necessary to create a new virtual env and then, install the listed libraries. 
 
-### Run the app
+### Execute o aplicativo
 <br>
-Now, to run the app, go to the app root directory and execute the "server.js" file (node .\server.js).
+Agora, para executar o aplicativo, vá para o diretório raiz do aplicativo e execute o comando `npm install`, aguarde os dependencias serem instarlada e depois execute o comando `node ./server.js`.
 <br>
-Once the program is running, the user can access the page "http://127.0.0.1:3000". After a couple secunds, the page will bring a json contenning all Lenovo laptops data.
+Uma vez que o programa esteja rodando, o usuário pode acessar a página "http://127.0.0.1:3000". Após alguns segundos, a página trará um json contendo todos os dados dos laptops Lenovo.
