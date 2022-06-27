@@ -57,5 +57,5 @@ app.get('/', async (req, res) => {
 
 
 app.listen(3000, () => {
-  console.log("servidor subiu com sucesso! Acesse em https://localhost:3000")
+  console.log("servidor subiu com sucesso! Acesse em http://localhost:3000")
 });
