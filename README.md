@@ -22,6 +22,6 @@ It is necessary to create a new virtual env and then, install the listed librari
 
 ### Execute o aplicativo
 <br>
-Agora, para executar o aplicativo, vá para o diretório raiz do aplicativo e execute o comando `npm install`, aguarde os dependencias serem instarlada e depois execute o comando `node ./server.js`.
+Agora, para executar o aplicativo, vá para o diretório raiz do aplicativo e execute o comando ´npm install´, aguarde os dependencias serem instaladas e depois execute o comando ´node ./server.js´.
 <br>
 Uma vez que o programa esteja rodando, o usuário pode acessar a página "http://127.0.0.1:3000". Após alguns segundos, a página trará um json contendo todos os dados dos laptops Lenovo.
